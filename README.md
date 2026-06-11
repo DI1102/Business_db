@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full Stack Business Dashboard
 
 assignment 3 - full stack app with mongodb, node/express backend, and react frontend
@@ -63,3 +64,6 @@ frontend runs on http://localhost:5173
 - mobile layout broken on dashboard
 
 made by nav
+=======
+# Business_db
+>>>>>>> 0c1e38eda7f30a85f63ad7aa52790163946cdb2e
